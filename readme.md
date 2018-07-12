@@ -17,7 +17,7 @@ A cada mês, uma pessoa envolvida com atividades relacionadas à ciência é con
 
 ## Outubro
 
-    Data: 27/10, 19hs
+    Data: 27/10
     Local: Quiosque Brahma Chopp - Shopping da Ilha
     Tema: Astronomia no Maranhão
     Palestrante: Sérgio Brenha
@@ -27,7 +27,7 @@ A cada mês, uma pessoa envolvida com atividades relacionadas à ciência é con
 
 ## Novembro
 
-    Data: 19/11, 19hs
+    Data: 19/11
     Local: Chopp Time - Shopping Rio Anil
     Tema: Processamento de Sinais como uma ferramenta para o desenvolvimento do Maranhão
     Palestrante: Ewaldo Éder
@@ -37,7 +37,7 @@ A cada mês, uma pessoa envolvida com atividades relacionadas à ciência é con
 
 ## Dezembro
 
-    Data: 17/12, 19hs
+    Data: 17/12
     Local: Quiosque Brahma Chopp - Shopping da Ilha
     Tema: Computação paralela em GPU: Uma alternativa na busca por desempenho
     Palestrante: Hérisson Chaves
